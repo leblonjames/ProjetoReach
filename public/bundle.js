@@ -20395,7 +20395,7 @@
 	      React.createElement(
 	        'h1',
 	        null,
-					'GitHub'
+					'GitHub Info'
 					
 	      ),
 	      React.createElement(
@@ -20410,7 +20410,7 @@
 	            React.createElement(
 	              'label',
 	              null,
-	              'Username'
+	              'Dígite um Username'
 	            ),
 	            React.createElement('input', {
 	              type: 'text',
