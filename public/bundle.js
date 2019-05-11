@@ -20395,7 +20395,8 @@
 	      React.createElement(
 	        'h1',
 	        null,
-	        'GitHub'
+					'GitHub'
+					
 	      ),
 	      React.createElement(
 	        'div',
@@ -21768,7 +21769,7 @@
 	            null,
 	            React.createElement(
 	              "a",
-	              { href: repo.html_url, className: "btn btn-primary", role: "button" },
+	              { href: repo.html_url, className: "btn btn-primary", role: "button"  },
 	              "Repository"
 	            ),
 	            React.createElement(
